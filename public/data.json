@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "adventureTitle": "Rainforest Canopy Walk",
+      "image": "https://plus.unsplash.com/premium_photo-1687525932622-b2192d27ac34?q=80&w=2050&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categoryName": "Nature Exploration",
+      "shortDescription": "Explore the lush rainforest from above on a stunning canopy walkway.",
+      "adventureCost": 120,
+      "bookingAvailability": "Available",
+      "location": "Amazon Rainforest, Brazil",
+      "duration": "4 hours",
+      "adventureLevel": "Intermediate",
+      "includedItems": ["Guided Tour", "Safety Gear", "Refreshments"],
+      "ecoFriendlyFeatures": ["No single-use plastics", "Sustainable materials", "Local community support"],
+      "maxGroupSize": 15,
+      "specialInstructions": [
+        "Wear comfortable walking shoes.",
+        "Bring insect repellent and sunscreen.",
+        "Carry a reusable water bottle."
+      ]
+    },
+    {
+      "id": 2,
+      "adventureTitle": "Desert Stargazing Safari",
+      "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categoryName": "Astronomy Adventure",
+      "shortDescription": "Experience the wonders of the night sky in a remote desert location.",
+      "adventureCost": 200,
+      "bookingAvailability": "Limited",
+      "location": "Sahara Desert, Morocco",
+      "duration": "Overnight",
+      "adventureLevel": "Easy",
+      "includedItems": ["Telescope Access", "Campfire Dinner", "Sleeping Arrangements"],
+      "ecoFriendlyFeatures": ["Renewable energy lighting", "Zero-waste policy", "Local guides"],
+      "maxGroupSize": 12,
+      "specialInstructions": [
+        "Wear warm clothing for nighttime.",
+        "Avoid using flash photography.",
+        "Follow the Leave No Trace principles."
+      ]
+    },
+    {
+      "id": 3,
+      "adventureTitle": "Coral Reef Snorkeling",
+      "image": "https://images.unsplash.com/photo-1664922114319-4700c0ef74b1?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categoryName": "Water Adventure",
+      "shortDescription": "Discover vibrant coral reefs and marine life on a snorkeling expedition.",
+      "adventureCost": 90,
+      "bookingAvailability": "Available",
+      "location": "Great Barrier Reef, Australia",
+      "duration": "3 hours",
+      "adventureLevel": "Beginner",
+      "includedItems": ["Snorkeling Gear", "Expert Guide", "Underwater Photos"],
+      "ecoFriendlyFeatures": ["Eco-friendly sunscreen provided", "Marine conservation briefing", "Reef-safe practices"],
+      "maxGroupSize": 10,
+      "specialInstructions": [
+        "Do not touch or disturb marine life.",
+        "Use reef-safe sunscreen.",
+        "Follow guide instructions closely."
+      ]
+    },
+    {
+      "id": 4,
+      "adventureTitle": "Mountain Eco-Trekking",
+      "image": "https://plus.unsplash.com/premium_photo-1661810803959-f91f5195138e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categoryName": "Hiking Adventure",
+      "shortDescription": "Hike through pristine mountain trails with breathtaking views.",
+      "adventureCost": 150,
+      "bookingAvailability": "Available",
+      "location": "Rocky Mountains, USA",
+      "duration": "6 hours",
+      "adventureLevel": "Advanced",
+      "includedItems": ["Trail Map", "Guide Assistance", "Energy Snacks"],
+      "ecoFriendlyFeatures": ["Reusable trail markers", "No littering policy", "Educational stops about flora/fauna"],
+      "maxGroupSize": 8,
+      "specialInstructions": [
+        "Wear sturdy hiking boots.",
+        "Pack layers for varying temperatures.",
+        "Carry out all trash and waste."
+      ]
+    },
+    {
+      "id": 5,
+      "adventureTitle": "Kayaking through Mangroves",
+      "image": "https://plus.unsplash.com/premium_photo-1664908405134-c3eb43824da4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categoryName": "Water Adventure",
+      "shortDescription": "Navigate serene mangrove channels teeming with wildlife.",
+      "adventureCost": 75,
+      "bookingAvailability": "Available",
+      "location": "Everglades National Park, USA",
+      "duration": "2.5 hours",
+      "adventureLevel": "Beginner",
+      "includedItems": ["Kayak and Paddle", "Life Jacket", "Expert Guide"],
+      "ecoFriendlyFeatures": ["Wildlife-safe paddling routes", "No waste policy", "Focus on education about ecosystems"],
+      "maxGroupSize": 10,
+      "specialInstructions": [
+        "Wear waterproof clothing.",
+        "Bring a hat and sunglasses.",
+        "Follow wildlife viewing guidelines."
+      ]
+    },
+    {
+      "id": 6,
+      "adventureTitle": "Volcanic Hot Springs Retreat",
+      "image": "https://plus.unsplash.com/premium_photo-1661963749842-8c69a3f99987?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categoryName": "Relaxation Adventure",
+      "shortDescription": "Unwind in natural volcanic hot springs surrounded by serene landscapes.",
+      "adventureCost": 110,
+      "bookingAvailability": "Available",
+      "location": "Arenal Volcano, Costa Rica",
+      "duration": "Half Day",
+      "adventureLevel": "Easy",
+      "includedItems": ["Hot Springs Access", "Towels", "Herbal Drinks"],
+      "ecoFriendlyFeatures": ["Geothermal energy used", "Natural spring water", "Support for local conservation projects"],
+      "maxGroupSize": 20,
+      "specialInstructions": [
+        "Avoid bringing electronic devices near water.",
+        "Wear swimsuits.",
+        "Respect quiet zones."
+      ]
+    },
+    {
+      "id": 7,
+      "adventureTitle": "Eco-Cultural Village Experience",
+      "image": "https://images.unsplash.com/photo-1441321845576-f74e2c7a85fc?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categoryName": "Cultural Exploration",
+      "shortDescription": "Immerse yourself in the traditions and sustainable practices of local villages.",
+      "adventureCost": 80,
+      "bookingAvailability": "Available",
+      "location": "Chiang Mai, Thailand",
+      "duration": "5 hours",
+      "adventureLevel": "Beginner",
+      "includedItems": ["Guided Tour", "Local Snacks", "Interactive Activities"],
+      "ecoFriendlyFeatures": ["Support local artisans", "Low-impact tourism model", "Sustainable crafts workshops"],
+      "maxGroupSize": 15,
+      "specialInstructions": [
+        "Wear modest clothing.",
+        "Bring cash to support artisans.",
+        "Be respectful during cultural activities."
+      ]
+    }
+  ]
+  

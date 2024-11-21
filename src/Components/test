@@ -1,0 +1,50 @@
+// import React, { useContext } from "react";
+// import { Link, NavLink, useLoaderData, useNavigate, useParams } from "react-router-dom";
+// import { AuthContext } from "../context/AuthProvider";
+
+// const AdventureCard = () => {
+
+//   const {user} = useContext(AuthContext);
+//   console.log
+//   const adventures = useLoaderData();
+  
+//   const navigate = useNavigate();
+//   return (
+//     //#d4f4f8
+//     <section className="py-8 px-4 bg-[#E0F7FA] w-10/12 mx-auto ">
+//       <h2 className="text-3xl font-bold text-center mb-12 animate__heartBeat">Adventure Experiences Let's Go</h2>
+//       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 ">
+//         {adventures.map((adventure) => (
+//           <div key={adventure.id} className="border rounded-lg p-4 bg-[#CBF1F5] shadow-md">
+//             <img
+//               src={adventure.image}
+//               alt={adventure.adventureTitle}
+//               className="w-full h-60 object-cover rounded-md"
+//             />
+//             <h3 className="text-xl font-semibold mt-4">{adventure.adventureTitle}</h3>
+//             <ul className="mt-2 text-sm text-gray-600">
+//               {adventure.ecoFriendlyFeatures.map((feature, index) => (
+//                 <li key={index}>- {feature}</li>
+//               ))}
+//             </ul>now make a list of category under the Adventure
+
+
+//             <NavLink to={`/adventuredetails/${adventure.id}`}>
+
+//             <button 
+              
+//               className="bg-[#007B99] text-white px-4 py-2 mt-4 rounded-md hover:bg-[#005F73]"
+//             >
+//               Explore Now
+//             </button>
+//             </NavLink>
+
+            
+//           </div>
+//         ))}
+//       </div>
+//     </section>
+//   );
+// };
+
+// export default AdventureCard;
